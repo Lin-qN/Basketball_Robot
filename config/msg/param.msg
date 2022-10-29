@@ -1,0 +1,10 @@
+float32 NMS_THRESH
+float32 CONF_THRESH
+bool if_shot
+bool if_show
+int32 k_x0
+int32 k_y0
+int32 k_z0
+int32 k_x1
+int32 k_y1
+int32 k_z1
